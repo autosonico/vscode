@@ -5,3 +5,4 @@ textos del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secc
 por Cicero, escrito en el año 45 antes de Cristo. Este libro es un tratado de teoría de éticas, muy popular durante el Renacimiento. La primera linea del Lorem Ipsum,
 "Lorem ipsum dolor sit amet..", viene de una linea en la sección 1.10.32
 
+Cambio de la nueva rama
